@@ -5,16 +5,26 @@ Since I found pretty much imposible for the time being to find any good library 
 
 Disclaimer: the code found in the libraries is NOT MINE. Thanks to Adafruit and rpicopter for creating all the libraries. The only thing that I made, was changing the I2C addresses and combine both codes. As this chip has two different sensors.
 
+# HOW-TO
+
 Connections:
+
 VIN --------- 5V
+
 GND --------- GND
+
 SCL --------- A5
+
 SDA --------- A4
+
 Dependecies:
+
 All dependencies should be included in the folder. In case you find problems, here are the links for the original libraries:
        https://github.com/adafruit/Adafruit_BMP280_Library
        https://github.com/moderndevice/MotionPlug
-Compatible devices
+       
+Compatible devices:
+
 I only tried with the Arduino UNO. Any device with a variant of the ATmega328 should work also fine.
  
 Any future updates will be post here as the project continues.
