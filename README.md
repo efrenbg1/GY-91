@@ -7,16 +7,16 @@ Disclaimer: the code found in the libraries is NOT MINE. Thanks to Adafruit and 
 
 
 # HOW-TO
- # Connections
+ Connections
     VIN --------- 5V
     GND --------- GND
     SCL --------- A5
     SDA --------- A4
- # Dependecies
+ Dependecies
     All dependencies should be included in the folder. In case you find problems, here are the links for the original libraries:
-        https://github.com/adafruit/Adafruit_BMP280_Library
-        https://github.com/moderndevice/MotionPlug
- # Compatible devices
+       https://github.com/adafruit/Adafruit_BMP280_Library
+       https://github.com/moderndevice/MotionPlug
+ Compatible devices
     I only tried with the Arduino UNO. Any device with a variant of the ATmega328 should work also fine.
  
 Any future updates will be post here as the project continues.
