@@ -31,8 +31,10 @@ In case you find problems, here are the links for the original libraries:
 I only tried with the Arduino UNO. Any device with a variant of the ATmega328 should also work fine.
 
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
  
+
 Any future updates will be post here as the project continues.
 
 You can leave any question to these e-mail: efren@boyarizo.es
