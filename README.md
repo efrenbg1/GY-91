@@ -18,17 +18,25 @@ SCL --------- A5
 
 SDA --------- A4
 
+
+
  - Dependecies:
 
 All dependencies should be included in the folder here.
 
 In case you find problems, here are the links for the original libraries:
+
        https://github.com/adafruit/Adafruit_BMP280_Library
+       
        https://github.com/moderndevice/MotionPlug
+       
+       
        
  - Compatible devices:
 
 I only tried with the Arduino UNO. Any device with a variant of the ATmega328 should also work fine.
+
+
 
 
 
