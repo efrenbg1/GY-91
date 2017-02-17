@@ -7,11 +7,11 @@ Disclaimer: the code found in the libraries is NOT MINE. Thanks to Adafruit and 
 
 
 # HOW-TO
- Connections
-    VIN --------- 5V
-    GND --------- GND
-    SCL --------- A5
-    SDA --------- A4
+Connections
+VIN --------- 5V
+GND --------- GND
+SCL --------- A5
+SDA --------- A4
  Dependecies
     All dependencies should be included in the folder. In case you find problems, here are the links for the original libraries:
        https://github.com/adafruit/Adafruit_BMP280_Library
