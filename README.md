@@ -35,6 +35,6 @@ I only tried with the Arduino UNO. Any device with a variant of the ATmega328 sh
 ----------------------------------------------------------------------------------------------------------------------------------------
  
 
-Any future updates will be post here as the project continues.
+Any future updates will be post here as the Cansat project I am involved continues.
 
 You can leave any question to these e-mail: efren@boyarizo.es
