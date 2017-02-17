@@ -1,5 +1,5 @@
 # GY-91
-This is contains the library and an example of how to use the chinese sensor GY-91.
+This contains the libraries and an example of how to use the chinese sensor GY-91.
 
 Since I found pretty much imposible for the time being to find any good library that makes this two-in-one chip work at once, I created mine personally. 
 This program is only a basic script that displays all data via serial. It is intended to be used as an example and not as a fully functional program. But hey! It works like a charm, and it is easy-to-use. Just plug and play!
